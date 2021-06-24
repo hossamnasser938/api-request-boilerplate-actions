@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/hossamnasser938/api-request-boilerplate-actions#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
